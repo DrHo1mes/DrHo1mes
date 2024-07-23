@@ -1,8 +1,8 @@
 # Hello, I'm Mohamed Ewies
 <a href="https://www.linkedin.com/in/mohamed-ewies-59b89a212/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@kzar3"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
 
-Digital Forensics and Malware analysis Lover. I’m currently working as a SOC Analyst at Coordinates. I also create cybersecurity content for Root-X and run a YouTube channel <a href="https://www.youtube.com/@kzar3"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
-offering free courses on the subject. With certifications like CCD ,eCIR and hands-on experience from various internships and competitions, I’m dedicated to advancing in the field and contributing to the cybersecurity community.
+Digital Forensics and Malware analysis Lover. I’m currently working as a SOC Analyst at Coordinates. I also create cybersecurity content for Root-X and run a YouTube channel offering free courses on the subject. With certifications like CCD ,eCIR and hands-on experience from various internships and competitions, I’m dedicated to advancing in the field and contributing to the cybersecurity community.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
