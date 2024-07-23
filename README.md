@@ -1,29 +1,24 @@
+Certainly. I'll adjust the content to fit your CV and create a README that showcases your skills and experience. Here's a customized version based on your CV:
+
 # Hello, I'm Mohamed Ewies
 <a href="https://www.linkedin.com/in/mohamed-ewies-59b89a212/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@kzar3"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
 
-Digital Forensics and Malware analysis Lover. I’m currently working as a SOC Analyst at Coordinates. I also create cybersecurity content for Root-X and run a YouTube channel offering free courses on the subject. With certifications like CCD ,eCIR and hands-on experience from various internships and competitions, I’m dedicated to advancing in the field and contributing to the cybersecurity community.
+I'm a Digital Forensics and Malware Analysis enthusiast, currently working as a Security Engineer Intern at Alxtel. I create cybersecurity content for Root-X and run a YouTube channel offering free courses on cybersecurity fundamentals and Digital Forensics. With certifications like eCIR, CCD, and hands-on experience from various internships and competitions, I'm dedicated to advancing in the field and contributing to the cybersecurity community.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To leverage my skills in Digital Forensics, Malware Analysis, and Incident Response to contribute effectively to a Security Operations Center (SOC) and further develop my expertise in cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Digital Forensics and Incident Response       | <a href="https://github.com/your-username/digital-forensics-home-lab">Digital Forensics Home Lab</a>|
+| Network Forensics                             | <a href="https://github.com/your-username/network-forensics-ctf">Network Forensics CTF</a>|
+| Malware Analysis and Reverse Engineering      | Kaspersky Reverse Engineering Projects|
+| SIEM Implementation and Log Analysis          | Blue Team Internship at Cybertalents|
+| Threat Hunting and Intelligence               | Blue Team Internship at Cybertalents|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -31,29 +26,44 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-4B275F?&style=for-the-badge&logo=Volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KAPE-00A4EF?&style=for-the-badge&logo=KAPE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK_Imager-FF6600?&style=for-the-badge&logo=AccessData&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-IDA-4B0082?&style=for-the-badge&logo=IDA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ghidra-FF4500?&style=for-the-badge&logo=Ghidra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-x64dbg-008000?&style=for-the-badge&logo=x64dbg&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-eCIR-FF0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kaspersky_RE_101-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Trellix_Certified-FFA500?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [Digital Forensics Home Lab](https://github.com/your-username/digital-forensics-home-lab)
+- [Network Forensics CTF](https://github.com/your-username/network-forensics-ctf)
+- [Cybersecurity YouTube Courses](https://www.youtube.com/@kzar3)
+
+## Honors & Awards
+- 9th PLACE IN ICMTC CSC-2 2024 Qualifications CTF (June 2024)
+- FIRST PLACE IN SECUR'IT CUP'22 MENA region (Oct 2022)
+- Third place in Global SecureIT Cup'22 (Oct 2022)
+- Third PLACE IN SECUR'IT CUP 23 MENA region (Oct 2023)
+
+This README now reflects your specific skills, projects, and achievements as presented in your CV. You may want to create the linked GitHub repositories for your projects if they don't already exist, and replace "your-username" with your actual GitHub username in the links.
