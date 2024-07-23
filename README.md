@@ -1,9 +1,5 @@
 # 🕵️‍♂️ Mohamed Ewies | Digital Forensics Specialist
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🔎_Digital_Forensics-🧬_Malware_Analysis-🛡️_Incident_Response-blue?style=for-the-badge" />
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ewies-59b89a212/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@kzar3"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
@@ -13,9 +9,6 @@
 
 Uncovering digital breadcrumbs and dissecting malicious code to protect the digital realm. Currently wielding my skills as a Security Engineer Intern at Alxtel, while spreading knowledge through Root-X content creation and my YouTube channel.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Disk_Forensics-Memory_Analysis-Network_Forensics-darkblue?style=for-the-badge" />
-</div>
 
 ## 🎯 Mission Objective
 
