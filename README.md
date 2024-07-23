@@ -1,5 +1,3 @@
-Certainly. I'll adjust the content to fit your CV and create a README that showcases your skills and experience. Here's a customized version based on your CV:
-
 # Hello, I'm Mohamed Ewies
 <a href="https://www.linkedin.com/in/mohamed-ewies-59b89a212/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@kzar3"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
@@ -65,5 +63,3 @@ To leverage my skills in Digital Forensics, Malware Analysis, and Incident Respo
 - FIRST PLACE IN SECUR'IT CUP'22 MENA region (Oct 2022)
 - Third place in Global SecureIT Cup'22 (Oct 2022)
 - Third PLACE IN SECUR'IT CUP 23 MENA region (Oct 2023)
-
-This README now reflects your specific skills, projects, and achievements as presented in your CV. You may want to create the linked GitHub repositories for your projects if they don't already exist, and replace "your-username" with your actual GitHub username in the links.
